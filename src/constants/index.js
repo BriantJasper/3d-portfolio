@@ -18,7 +18,7 @@ import {
   laravel,
   hostcctv,
   catatanbelanja,
-  blog,
+  blogwebsite,
 } from "../assets";
 
 export const navLinks = [
@@ -215,7 +215,7 @@ const projects = [
   {
     name: "Blog Website",
     description:
-      "A simple blog website with CRUD Functions using laravel, mainly focused on the backend and relational database implementation.",
+      "A simple blogwebsite, website with CRUD Functions using laravel, mainly focused on the backend and relational database implementation.",
     tags: [
       {
         name: "laravel",
@@ -230,7 +230,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: blog,
+    image: blogwebsite,,
     source_code_link: "https://github.com/BriantJasper/blogwpu",
   },
 ];

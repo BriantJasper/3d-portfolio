@@ -24,7 +24,7 @@ import cvhost from "./company/cvhost.png";
 
 import hostcctv from "./hostcctv.jpg";
 import catatanbelanja from "./catatanbelanja.jpg";
-import blog from "./blog.jpg";
+import blogwebsite from "./blogwebsite.jpg";
 
 export {
   logo,
@@ -50,5 +50,5 @@ export {
   cvhost,
   hostcctv,
   catatanbelanja,
-  blog,
+  blogwebsite,
 };
