@@ -18,7 +18,7 @@ import {
   laravel,
   hostcctv,
   catatanbelanja,
-  blogwpu,
+  blogwebsite,
 } from "../assets";
 
 export const navLinks = [
@@ -213,9 +213,9 @@ const projects = [
     source_code_link: "https://github.com/BriantJasper/catatan-belanja",
   },
   {
-    name: "blogwpu",
+    name: "Blog Website",
     description:
-      "A simple blogwpu with CRUD Functions using laravel, mainly focused on the backend and relational database implementation.",
+      "A simple blog website with CRUD Functions using laravel, mainly focused on the backend and relational database implementation.",
     tags: [
       {
         name: "laravel",
@@ -230,7 +230,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: blogwpu,
+    image: blogwebsite,
     source_code_link: "https://github.com/BriantJasper/blogwpu",
   },
 ];
